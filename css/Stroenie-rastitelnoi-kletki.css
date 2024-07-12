@@ -1,0 +1,612 @@
+body{
+    background-color: rgb(110, 168, 51);
+    margin-left: 45px;
+    margin-right: 45px;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+h3.zagolovok{
+    margin-left: 440px;
+    margin-right: 450px;
+    font-size: 30px;
+    background-color: rgb(121, 196, 46) ;
+    position: absolute;
+    margin-top: 55px;
+}
+a.fon{
+    position: absolute;
+    font-size: 28px;
+    margin-left: 110px;
+}
+img.fon{
+    width: 1330px;
+    margin-top: 50px;
+    height: 100000px;
+}
+a.fon{
+    position: absolute;
+    font-size: 32px;
+    margin-top: 110px;
+    margin-left: 110px;
+}
+a.soderzanie{
+    color: black;
+    text-decoration: none;
+    border-top: 2px solid rgb(70, 69, 69);
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 16.4px;
+    margin-top: 120px;
+    margin-left: 107px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+a.soderzanie:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie2{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 16.4px;
+    margin-top: 140px;
+    margin-left: 107px;
+    padding-right: 270px;
+    padding-left: 3px;
+    padding-top: 2px;
+}
+a.soderzanie2:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie2{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 16.4px;
+    margin-top: 140px;
+    margin-left: 107px;
+    padding-right: 270px;
+    padding-left: 3px;
+    padding-top: 5px;
+}
+a.soderzanie3{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 163.5px;
+    margin-left: 107px;
+    padding-right: 191px;
+    padding-left: 36px;
+    padding-top:4px;
+}
+a.soderzanie3:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie4{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 183.5px;
+    margin-left: 107px;
+    padding-right: 171px;
+    padding-left: 36px;
+}
+a.soderzanie4:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie5{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 200.5px;
+    margin-left: 107px;
+    padding-right: 221px;
+    padding-left: 36px;
+}
+a.soderzanie5:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie6{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 16.4px;
+    margin-top: 213px;
+    margin-left: 107px;
+    padding-right: 254px;
+    padding-left: 3px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
+a.soderzanie6:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie7{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 242.5px;
+    margin-left: 107px;
+    padding-right: 229px;
+    padding-left: 36px;
+}
+a.soderzanie7:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie8{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 259.5px;
+    margin-left: 107px;
+    padding-right: 241px;
+    padding-left: 36px;
+}
+a.soderzanie8:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie9{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 276.5px;
+    margin-left: 107px;
+    padding-right: 215px;
+    padding-left: 36px;
+}
+a.soderzanie9:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie10{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 293.5px;
+    margin-left: 107px;
+    padding-right: 191px;
+    padding-left: 36px;
+}
+a.soderzanie10:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie11{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 310.5px;
+    margin-left: 107px;
+    padding-right: 141px;
+    padding-left: 36px;
+}
+a.soderzanie11:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie12{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 327.5px;
+    margin-left: 107px;
+    padding-right: 115px;
+    padding-left: 36px;
+}
+a.soderzanie12:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie13{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 344.5px;
+    margin-left: 107px;
+    padding-right: 240px;
+    padding-left: 36px;
+}
+a.soderzanie13:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie14{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 361.5px;
+    margin-left: 107px;
+    padding-right: 240px;
+    padding-left: 36px;
+}
+a.soderzanie14:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie15{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 378.5px;
+    margin-left: 107px;
+    padding-right: 220px;
+    padding-left: 36px;
+}
+a.soderzanie15:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie16{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 395.5px;
+    margin-left: 107px;
+    padding-right: 162px;
+    padding-left: 36px;
+}
+a.soderzanie16:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie17{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 16.4px;
+    margin-top: 408px;
+    margin-left: 107px;
+    padding-right: 302px;
+    padding-left: 3px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
+a.soderzanie17:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie18{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 439px;
+    margin-left: 107px;
+    padding-right: 209px;
+    padding-left: 36px;
+}
+a.soderzanie18:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie19{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 456px;
+    margin-left: 107px;
+    padding-right: 209px;
+    padding-left: 36px;
+}
+a.soderzanie19:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie20{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 473px;
+    margin-left: 107px;
+    padding-right: 233px;
+    padding-left: 36px;
+}
+a.soderzanie20:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie21{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 490px;
+    margin-left: 107px;
+    padding-right: 234px;
+    padding-left: 36px;
+}
+a.soderzanie21:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie22{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 507px;
+    margin-left: 107px;
+    padding-right: 241px;
+    padding-left: 36px;
+}
+a.soderzanie22:hover{
+    color: rgb(235, 235, 235)
+}
+a.soderzanie23{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 524px;
+    margin-left: 107px;
+    padding-right: 219px;
+    padding-left: 36px;
+}
+a.soderzanie23:hover{
+    color: rgb(235, 235, 235);
+}
+a.soderzanie24{
+    color: black;
+    text-decoration: none;
+    border-left: 2px solid rgb(70, 69, 69);
+    position: absolute;
+    border-right: 2px solid rgb(70, 69, 69);
+    font-size: 14.5px;
+    margin-top: 541px;
+    margin-left: 107px;
+    padding-right: 238px;
+    padding-left: 36px;
+    border-bottom: 2px solid rgb(70, 69, 69);
+    padding-bottom: 3px;
+}
+a.soderzanie24:hover{
+    color: rgb(235, 235, 235);
+}
+img.soderzanienachalo{
+    height: 460px;
+    width: 395px;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 85px;
+}
+h2.odin{
+    position: absolute;
+    font-size: 35px;
+    margin-top: 1200px;
+    margin-left: 50px;
+    background-color: #68a32c
+}
+img.komponenti{
+    position: absolute;
+    height: 500px;
+    width: 450px;
+    margin-top: 1380px;
+    margin-left: 50px;
+}
+dev.sait a.odin{
+    position: absolute;
+    margin-top: 1287px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+}
+dev.sait a.dva{
+    position: absolute;
+    margin-top: 1253px;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-right: 93px;
+    color: rgb(65, 65, 65);
+}
+dev.sait a.tri{
+    position: absolute;
+    margin-top: 1410px;
+    margin-left: 680px;
+    font-size: 35px
+}
+dev.sait a.chetire{
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 600px;
+    margin-right: 100px;
+    font-size: 30px;
+    font-weight: normal;
+}
+dev.sait a.pyat{
+    position: absolute;
+    margin-top: 1630px;
+    margin-left: 600px;
+    margin-right: 100px;
+    font-size: 30px;
+    font-weight: normal;
+}
+dev.sait a.shest{
+    position: absolute;
+    margin-top: 1760px;
+    margin-left: 600px;
+    margin-right: 100px;
+    font-size: 30px;
+    font-weight: normal;
+}
+dev.sait a.sem{
+    position: absolute;
+    margin-top: 1965px;
+    margin-left: 50px;
+    font-size: 27px;
+}
+dev.sait a.vosem{
+    position: absolute;
+    margin-top: 2040px;
+    margin-left: 70px;
+    font-size: 30px;
+    line-height: 21px;
+    font-weight: normal;
+}
+dev.sait2 h2.odin{
+    position: absolute;
+    margin-top: 2400px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+}
+dev.sait2 a.dva{
+    position: absolute;
+    margin-top: 2475px;
+    font-size: 30px;
+    margin-left: 50px;
+    color: black;
+}
+dev.sait2 a.tri{
+    position: absolute;
+    margin-top: 2590px;
+    font-size: 30px;
+    margin-left: 50px;
+    color: black;
+    background-color:#a1f54d
+}
+dev.sait2 a.chetire{
+    position: absolute;
+    margin-top: 2650px;
+    font-size: 30px;
+    margin-left: 70px;
+    color: rgb(63, 57, 57);
+    line-height: 21px;
+}
+dev.sait2 a.pyat{
+    position: absolute;
+    margin-top: 2620px;
+    font-size: 130px;
+    margin-left: 770px;
+    color: black;
+}
+dev.sait2 a.shest{
+    position: absolute;
+    margin-top: 2687px;
+    font-size: 30px;
+    margin-left: 825px;
+    color: rgb(63, 57, 57)
+}
+dev.sait3 h2.odin{
+    position: absolute;
+    margin-top: 3100px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+}
+dev.sait3 a.dva{
+    position: absolute;
+    margin-top: 3200px;
+    font-size: 30px;
+    margin-left: 50px;
+    color: black;
+    font-weight: normal;
+    margin-right: 150px;
+}
+img.stenka{
+    position: absolute;
+    margin-top: 3500px;
+    height: 450px;
+    width: 550px;
+    margin-left: 400px;
+}
+dev.sait4 h2.odin{
+    position: absolute;
+    margin-top: 4100px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+    font-weight: normal;
+}
+dev.sait4 a.dva{
+    position: absolute;
+    margin-top: 4200px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 210px;
+    font-weight: normal;
+    color: black;
+}
+dev.sait4 a.tri{
+    position: absolute;
+    margin-top: 4320px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+    font-weight: normal;
+    color: black;
+}
+odin{
+    color: rgb(68, 68, 68);
+}
+dev.sait3 dva{
+    color: rgb(68, 68, 68);
+}
+dev.sait4 a.chetire{
+    position: absolute;
+    margin-top: 4400px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+    font-weight: normal;
+    color: black;
+    line-height: 19px;
+}
+dev.sait4 a.pyat{
+    position: absolute;
+    margin-top: 4400px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 93px;
+    font-weight: normal;
+}
